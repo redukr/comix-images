@@ -1,0 +1,5 @@
+# This directory is for JOJ data files
+# Copy or symlink files from JOJ-GAME-NEW:
+# - database/shared-ranks.json -> joj-ranks.json
+# - database/shared-deck-template.json -> joj-cards.json
+# - public/card-assets/* -> card-images/
